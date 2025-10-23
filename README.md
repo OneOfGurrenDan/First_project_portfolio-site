@@ -115,9 +115,8 @@ my-portfolio/
 
 **Даниил Смирнов**
 - 📧 Email: daniil.1812.smirnov@gmail.com
-- 🐙 GitHub: [github.com/ivanpetrov](https://github.com/ivanpetrov)
-- ✈️ Telegram: [@ivanpetrov](https://t.me/ivanpetrov)
-- 🔵 VK: [vk.com/ivanpetrov](https://vk.com/ivanpetrov)
+- 🐙 GitHub: [github.com/OneOfGurrenDan](https://github.com/OneOfGurrenDan)
+- ✈️ Telegram: [@OneOfGurrenDan](https://t.me/OneOfGurrenDan)
 
 ---
 
